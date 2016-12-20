@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+# Talk Talk in the news again. 
+
+In today's world most organisations have to trust interesting supply chains, and sometimes risk assessments and bussiness owners will decide to take a risk. That is just normal business process. When it somes to equipment that you place in the customers sight, you need to consider this as a high risk area. Then when it goes wrong and it will (it did) consider how strong a message you need to present to the media. Whilst your business make not have suffered from the recent list of security failings, there must be a time when you poor incident response will have an impact (I dont understand why people dont move, they just appear to be sheep). 
+
+Well so in this case the BBC was presented with a number of WIFI passphrases, for a particular router and claimed that you could log to these consumer router, you would have to find the wifi hotsopt and aware you go. 
+
+The managed to find a security consultant who rated this as a low threat! When questioned by the BBC he continued to say this was a low threat, consumers don't store a lot of personal data on their computers! Steve armsstrong was quoted on the BBC, well (thanks for that security unawareness statement,  but he did go on to  say that Talk Talk  should consider telling their customers to change their passowrds on the routers.
+
+It could have been so much better, emails to customers advising them to change their passwords. They could have wrapped a security awareness piece, whilst addressing the nature of the breach. Positive message, and customer centric, instead the non talk talk customers have there views concerned that as far as security is concerned Talk Talk are a basket case. 
+
+
+
+

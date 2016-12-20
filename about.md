@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+Diplomacy by other means, 
+When words fail!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Currently we appear to be going through a number of conflicts directly connected to a failure to communicate. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+As the mood takes me I will touch on some of these. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
