@@ -6,7 +6,7 @@ categories: Banking
 ---
 
 
-#Italian Bankingg Failing
+# Italian Banking Failing
 
  The Italian Bank, Monte dei Paschi di Siena (MPS)  look like they have finally run out of time, they are desparate to come to an arrangement with the Qatar Soveriegn Fund to the tune of $1.7bn. If this fails then the Italian Government has a problem.
 Following the banking crisis in 2008 the EU changed the rules to make sure that the Bond holders took some of the loss if a bank has to be bailed out. This was designed to reduce tthe impact tax players and shareholders carrying all the loss if the state had to save them from failing. 
