@@ -17,4 +17,12 @@ MPS is looking for funding someway north of $5bn, with the prime minister resign
 
 The ECB is pushing hard on MPS to solve the problem, fearing the affects of a loss in confidence in the Euro (again). 
 
-Updated 20161219, share dealing suspended following a further 8% drop as bank prepares for rights issue. Shares have fallen by 80% in the last year. 
+Updated 20161219, share dealing suspended following a further 8% drop as bank prepares for rights issue. Shares have fallen by 80% in the last year.
+
+
+updated 20161221
+
+The Italian government still trying to work out the bail out plan, now being reported that it could take up to 3 months to resolve. 
+
+Share price continues to slide. 
+ 
