@@ -5,6 +5,7 @@ date:   2017-01-01 00:00:01 +0000
 categories: Human Rights
 ---
 
+They got caught once abusing their powers, why should we trust them a second time. 
 
 ## Wilson Doctrine
 

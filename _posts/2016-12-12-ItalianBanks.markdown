@@ -6,9 +6,11 @@ categories: Banking
 ---
 
 
+The Italian Banking system has a  has a lot of problems, and there appears to be no easy solution. Recent reports are saying that retail customers were misled into buying the bonds, is this a smoke screen to allow the Government to bail them out? 
+
 # Italian Banking Failing
 
- The Italian Bank, Monte dei Paschi di Siena (MPS)  look like they have finally run out of time, they are desparate to come to an arrangement with the Qatar Soveriegn Fund to the tune of $1.7bn. If this fails then the Italian Government has a problem.
+The Italian Bank, Monte dei Paschi di Siena (MPS)  look like they have finally run out of time, they are desparate to come to an arrangement with the Qatar Soveriegn Fund to the tune of $1.7bn. If this fails then the Italian Government has a problem.
 Following the banking crisis in 2008 the EU changed the rules to make sure that the Bond holders took some of the loss if a bank has to be bailed out. This was designed to reduce tthe impact tax players and shareholders carrying all the loss if the state had to save them from failing. 
 
 This makes sense in most countries, but unfortunately in Italy those bond owners are the general public. Families invested via these "safe" financial devices, and now 40,000 of them face financial ruin, holding Euro 2bn.  

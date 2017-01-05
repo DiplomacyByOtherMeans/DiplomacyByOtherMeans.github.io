@@ -7,4 +7,4 @@ categories: Introduction
 Diplomacy By Other Means was a phrase coined by Carl von Clausewitz. 
 That warfare is the continuation of politics after words had failed to resolve the issue. 
 
-This blog will touch on articles that I find interesting. 
+This blog will touch on articles that I find interesting.  
