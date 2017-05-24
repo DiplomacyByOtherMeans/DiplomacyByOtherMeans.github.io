@@ -5,7 +5,7 @@ date:   2017-05-24 22:26:00 +0000
 categories: London
 ---
 
-Who seats in the priority seats on the Underground 
+Who seats in the priority seats on the Underground? 
 
 ## Priority Seats 
 
