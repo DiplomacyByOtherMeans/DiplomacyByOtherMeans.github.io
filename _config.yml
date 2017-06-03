@@ -24,7 +24,9 @@ github_username:  diplomacybyothermeans
 
 production_url : http://diplomacybyothermeans.github.io/DiplomacyByOtherMeans.github.io
 BASE_PATH : http://diplomacybyothermeans.github.io/DiplomacyByOtherMeans.github.io
-
+# Tagging section
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Build settings
 markdown: kramdown
