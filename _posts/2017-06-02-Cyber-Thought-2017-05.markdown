@@ -1,7 +1,22 @@
 ---
-Title: May Cyber Thoughs
-Author: Diplomacy By Other Means
+Title: May Cyber Thoughts
+Author :  Diplomacy By Other Means
 Tags: Cyber, 201705
 Categories: CYber
 ---
 
+# May 2017 Cyber Thoughs
+
+So we have to start with the WannaCry Ransomware. Just in case you missed it, this was the malware based on exploits written by the USA NSA, that was posted online by the Shadow Brokers, and then coded by someone and released into the wild that had some level of success in targeting the UK's National Health Service, as they were running on heritage, (read obsolete operating systems). In fact the UK government crowed about how much they had saved by not taking out extended support for the obsolete operating systems. [Insert Line]. 
+
+There is some confusion on how this malware was spread, some claiming that there was no email campaign and that it was purely a worm. This i find hard to believe as this implied that the malware was exploiting some weakness in the NHS firewalls, which is really really worrying. How bad were their firewalls that let this through? 
+
+So I have 2 points to make:-
+
+1. This is based on exploits that the NSA was using back in 2012, we are now in 2017. Did they tell the vendors in question not to patch this, or worse did they ask the vendor to put the vulnerability into the code? 
+In any case does the NSA take some liability for creating this code and then not controlling it, and letting third parties suffer a loss. It will be a brave organisation that attempts to take the USA government to court, but is a conversation that should happen. Imagine if this was a plague that they had developed in secret, and then they made a mistake and it got out into the wild, that could not happen right? Oh wait.... 
+2. Obsolete software, in the finance sector the regulators require that the IT systems are both supported and supportable, and would fine an organisation that suffered such an outage, and this would be only about money. So what is the regulator going to do in a case of people being harmed, no one goes into hospital with out a reason, and some of those individuals will have suffered further harm because of the delays in treatment. I await with some interest who will be sanctioned for this. Hopefully the bean counters who decided to cut the budgets on IT systems. *Look up the TIN mine case*
+
+
+President Trump
+I refer to him as President Trump to confer on him the respect that he failed to do when describing President Obama. Well his had an interesting month, decided that it would be a good idea to 
